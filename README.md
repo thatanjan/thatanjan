@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Anjan
 #### I am a full stack web developer.
-![I am a full stack web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a full stack web developer.](https://github.com/thatanjan/thatanjan/blob/main/assets/cules_cover.png)
 
 Love to SOLVE problems. I am a passionate full stack web developer. I can develop complex full stack web application like social media application, blogging website etc.
 
