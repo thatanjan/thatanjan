@@ -7,24 +7,24 @@ Love to SOLVE problems. I am a passionate full stack web developer. I can develo
 I have developed an open source social media application called “Confession”. The goal of this platform is to help people all around the world to get over their imposter syndrome.
 
 Some years ago, I took two best decision of my life. And they changed my life. They are :
-     ⇛ Deciding to be a programmer
-     ⇛ Listening to audio books.
+- Deciding to be a programmer
+- Listening to audio books.
 
 Specialties about me:
-    ⇛ Open to learn.
-    ⇛ Enjoy Solving problems.
-    ⇛ Works with goal and focus.
-    ⇛ Do one task at a time and do it properly.
-    ⇛ Love to listen audio books.
-    ⇛ Share knowledge.
-    ⇛ Wants to have quality connection.
+- Open to learn.
+- Enjoy Solving problems.
+- Works with goal and focus.
+- Do one task at a time and do it properly.
+- Love to listen audio books.
+- Share knowledge.
+- Wants to have quality connection.
 
 I love to learn and share my knowledge. That is why I write blog posts. I also run an YouTube channel called "Cules Coding".
- I teach:
-    ⇛ Full stack web development.
-    ⇛ Data structures and Algorithms.
-    ⇛ Software Design patterns.
-    ⇛ Developer tools, concepts and many more.
+I teach:
+- Full stack web development.
+- Data structures and Algorithms.
+- Software Design patterns.
+- Developer tools, concepts and many more.
 
 
 Skills: REACT / JS / HTML / CSS / NODE / GraphqL 
